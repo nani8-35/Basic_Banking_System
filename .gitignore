@@ -1,0 +1,25 @@
+# Flutter generated files and local tooling
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+**/build/
+.idea/
+*.iml
+*.log
+.DS_Store
+ios/Pods/
+ios/.symlinks/
+# Local secrets and machine configuration
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+key.properties
+android/local.properties
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+*.zip
