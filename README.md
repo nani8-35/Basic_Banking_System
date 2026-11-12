@@ -6,7 +6,6 @@
 - [Packages used](#packages)
 - [ScreenShots from the app](#screen-shots)
 - [Demo vedio](#demo_vedio)
-- [Contributors](#Contributors)
 
 ## About <a name = "about"></a>
 - Basic banking system created in Flutter based on BLoC state management & sqflite(database). The project is done as a part of The Sparks Foundation internship GRIPSEPTEMPER22.
@@ -31,11 +30,3 @@
 
 ## Demo video <a name = "demo_vedio"></a>
 https://youtu.be/T3khZ289B6w
-
-## Contributors <a name = "Contributors"></a>
-<table  >
-  <tr>
-     <td ><a href="https://github.com/hebaashraf21"><img src="https://github.com/hebaashraf21.png" width="150px;" alt=""/><br /><sub><b>Heba Ashraf</b></sub></a><br /></td>
-  </tr>
-</table>
-
