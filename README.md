@@ -30,3 +30,11 @@
 
 ## Demo video <a name = "demo_vedio"></a>
 https://youtu.be/T3khZ289B6w
+## Repository Maintainer
+
+**Y VENKATA AKASH KUMAR**
+
+- GitHub: [nani8-35](https://github.com/nani8-35)
+- LinkedIn: [Akash Yeginati](https://linkedin.com/in/akash-yeginati)
+
+This repository maintains a reference-based project for learning and portfolio review. Maintainer details identify the owner of this repository, not original authorship of all source code.
